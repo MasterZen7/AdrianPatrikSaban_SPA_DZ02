@@ -1,0 +1,3 @@
+﻿  game_of_life.cpp
+C:\Users\Adrian\Documents\Faks\2. semestar\SPA\Zadaca02\SpaDomacaZadaca02\SpaDomacaZadaca02\game_of_life.cpp(6,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SpaDomacaZadaca02.vcxproj -> C:\Users\Adrian\Documents\Faks\2. semestar\SPA\Zadaca02\SpaDomacaZadaca02\x64\Debug\SpaDomacaZadaca02.exe
